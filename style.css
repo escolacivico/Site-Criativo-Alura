@@ -18,8 +18,8 @@ body {
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 40px;
-    font-size: 28px;
+    margin: 0 50px;
+    font-size: 36px;
 }
 
 .cabecalho-lista-item a{
