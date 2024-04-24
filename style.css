@@ -20,7 +20,7 @@ body {
     display: inline-block;
     margin: 0 50px;
     font-size: 36px;
-    justify-items: center;
+    justify-content: space-around;
 }
 
 .cabecalho-lista-item a{
